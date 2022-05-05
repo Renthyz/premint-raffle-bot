@@ -1,0 +1,5 @@
+{
+  "delay": 2,
+  "retry_amount": 5,
+  "capmonster_key": "YOUR_CAPMONSTER_KEY"
+}
