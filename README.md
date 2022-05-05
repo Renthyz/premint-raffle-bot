@@ -1,7 +1,7 @@
 # Premints Raffle Bot
+This software will allow you register multiple entries for raffles that are hosted on [Premint](https://www.premint.xyz/home/)
 
 ## Features
-- Premint raffles entering
 - Cloudflare v1 bypass by using [cloudscraper](https://github.com/VeNoMouS/cloudscraper)
 - Capmonster integration for reCaptcha solving
 
