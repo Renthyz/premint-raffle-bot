@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+capmonster_python==2.2
+cloudscraper==1.2.60
+urllib3==1.26.9
+web3==5.29.0
+lxml==4.8.0
