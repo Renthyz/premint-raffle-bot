@@ -1,12 +1,12 @@
 # Premints Raffle Bot
-This software will allow you register multiple entries for raffles that are hosted on [Premint](https://www.premint.xyz/home/)
+This software was used to register multiple entries for raffles that are hosted on [Premint](https://www.premint.xyz/home/)
 
 ## Features
 - Cloudflare v1 bypass by using [cloudscraper](https://github.com/VeNoMouS/cloudscraper)
 - Capmonster integration for reCaptcha solving
 
 
-## Instalation
+## Installation
 ### Requirements
 - Install [python](https://www.python.org/)
 - Optional: [VSCode](https://code.visualstudio.com/) with [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) extension
